@@ -63,4 +63,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 
-2020-11-28第一次建立签到
+2028第一次建立签到
